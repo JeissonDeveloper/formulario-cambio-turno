@@ -18,10 +18,19 @@ Digitalizar un proceso que normalmente podría gestionarse de forma manual, perm
 - `estilos.css`: diseño visual.
 - `script.js`: lógica, validaciones e interacción.
 - `logo-ramo.png`: recurso gráfico utilizado en la interfaz.
+- `docs/capturas/`: espacio preparado para evidencias visuales del proyecto.
 
-## Valor del proyecto
+## Qué demuestra este proyecto
 
-Este repositorio muestra experiencia construyendo formularios web para procesos empresariales, con separación de responsabilidades entre HTML, CSS y JavaScript.
+- Digitalización de un proceso operativo.
+- Construcción de formularios empresariales.
+- Validación de información con JavaScript.
+- Separación entre estructura, presentación y lógica.
+- Diseño orientado a uso práctico.
+
+## Capturas
+
+La guía de evidencias visuales recomendadas está disponible en [`docs/capturas/`](docs/capturas/README.md). Las imágenes se agregarán usando información de demostración.
 
 ## Estado
 
